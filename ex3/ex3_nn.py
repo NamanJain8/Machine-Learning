@@ -26,6 +26,3 @@ if __name__=='__main__':
 	predictions=predict(theta1,theta2,X)
 	accuracy=100*np.mean(y==predictions)
 	print "Accuracy of our hypothesis is: %0.2f%%"%accuracy
-
-
-

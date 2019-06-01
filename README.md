@@ -1,2 +1,2 @@
 # Machine-Learning
-This repo contains pyhotn code to assignments of ML by Andrew Ng
+This repo contains python code to assignments of Machine-Learning by Andrew Ng
